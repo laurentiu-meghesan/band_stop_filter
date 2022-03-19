@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-03-19T15:48:53Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "BSF"
+        },
+        "Owner": "Meghesan Laurentiu <laur200x@yahoo.com>",
+        "Size": {
+            "X": 90.22,
+            "Y": 49.92
+        }
+    }
+}
